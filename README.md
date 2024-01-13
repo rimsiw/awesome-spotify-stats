@@ -6,7 +6,7 @@ This small list will provide you with many amazing and unique apps, sites and ot
 ---
 
 ## Stats
-- [stats.fm](stats.fm) - track your spotify stats with much detail and insight; also works with Apple Music and Last.fm
+- [stats.fm](https://stats.fm) - track your spotify stats with much detail and insight; also works with Apple Music and Last.fm
 - [Stats For Spotify](https://www.statsforspotify.com/) - simple, yet great tool for quickly checking your Spotify statistics
 - [Spotify Pie](https://huangdarren1106.github.io/#) - turn your favourite artists from last month into sharable pie chart (not literally-)
 - [Discover Quickly](https://discoverquickly.com/) - sort your playlists by various criteria, like danceability or popularity
