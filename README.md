@@ -11,6 +11,8 @@ This small list will provide you with many amazing and unique apps, sites and ot
 - [Spotify Pie](https://huangdarren1106.github.io/#) - turn your favourite artists from last month into sharable pie chart (not literally-)
 - [Discover Quickly](https://discoverquickly.com/) - sort your playlists by various criteria, like danceability or popularity
 - [receiptify](https://receiptify.herokuapp.com/) - generate your favourite songs or artists on aesthetic receipt
+- [Your Spotify](https://github.com/Yooooomi/your_spotify) - host a Spotify tracking dashboard for yourself
+- [Personal Spotify Statistics](https://github.com/piebro/spotify-statistics) - genereate statistics based on your spotify steaming history
 
 ## Specific
 - [Obscurify](https://obscurifymusic.com/login) - check your favourite artist and song obscurity level
