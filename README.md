@@ -22,3 +22,6 @@ This small list will provide you with many amazing and unique apps, sites and ot
 - [Instafest](https://www.instafest.app/) - generate festival lineup based on your favourite artists
 - [Icebergify](https://icebergify.com/) - generate iceberg chart based on obscurity and popularity of your favourite artists
 - [MusicScapes](https://musicscapes.herokuapp.com/) - create landmarks based on your music mood
+
+## Tools
+- [OpenPaw](https://github.com/daxaur/openpaw) - turn your terminal into a Spotify controller using natural language; search, queue, and manage playback via CLI
